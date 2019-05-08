@@ -9,6 +9,8 @@ googleAnalytics = ""
 # Posts per page
 paginate = 10
 
+publishDir = "docs"
+
 
 [params]
 	author = "Your name"
